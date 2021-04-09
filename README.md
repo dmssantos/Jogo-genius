@@ -8,4 +8,4 @@
 
 &nbsp;
 
-:link: https://dmssantos.github.io/Jogo-resgate/
+:link: https://dmssantos.github.io/Jogo-genius/
